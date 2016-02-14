@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+//ceshi
 @interface HMAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window; /////////
